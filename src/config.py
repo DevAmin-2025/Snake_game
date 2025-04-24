@@ -1,0 +1,11 @@
+# Constants used in the game
+GAME_WIDTH = 700
+GAME_HEIGHT = 700
+BODY_SIZE = 3
+SPACE_SIZE = 35
+GAME_SPEED = 150
+BG_COLOR = '#212121'
+SNAKE_COLOR = '#2979FF'
+FOOD_COLOR = '#E53935'
+FONT = ('Arial', 20)
+GAME_OVER_FONT = ('Arial', 60)
